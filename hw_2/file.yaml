@@ -1,0 +1,11 @@
+items:
+- car
+- boat
+- moto
+- cycle
+quantity: 4
+prices:
+  car: 8000€
+  boat: 15000€
+  moto: 5000€
+  cycle: 3000€

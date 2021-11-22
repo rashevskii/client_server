@@ -1,0 +1,18 @@
+{
+    "orders": [
+        {
+            "item": "pk",
+            "quantity": "20",
+            "price": "333",
+            "buyer": "Джо",
+            "date": "22.11.2021"
+        },
+        {
+            "item": "pk",
+            "quantity": "20",
+            "price": "333",
+            "buyer": "Jou Do",
+            "date": "22.11.2021"
+        }
+    ]
+}

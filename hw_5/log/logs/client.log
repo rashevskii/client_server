@@ -1,0 +1,5 @@
+2021-11-30 00:19:50,651 INFO     client client.py Launched client with parameters: address: 127.0.0.1 , port: 8888
+2021-11-30 00:21:53,439 INFO     client client.py Launched client with parameters: address: 127.0.0.1 , port: 8888
+2021-11-30 00:21:53,439 DEBUG    client client.py Generated presence a message for the user Guest
+2021-11-30 00:21:53,441 DEBUG    client client.py Parsing a message: {'response': 200}
+2021-11-30 00:21:53,441 INFO     client client.py Received a response from the server 200 : OK

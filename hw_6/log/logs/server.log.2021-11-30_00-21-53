@@ -1,0 +1,5 @@
+2021-11-30 00:21:53,439 INFO     server server.py Connected with ('127.0.0.1', 60094)
+2021-11-30 00:21:53,440 DEBUG    server server.py Get message {'action': 'presence', 'time': 1638217313.4398067, 'user': {'account_name': 'Guest'}}
+2021-11-30 00:21:53,440 DEBUG    server server.py Parsing a message from a client: {'action': 'presence', 'time': 1638217313.4398067, 'user': {'account_name': 'Guest'}}
+2021-11-30 00:21:53,440 INFO     server server.py Response for client {'response': 200}
+2021-11-30 00:21:53,440 DEBUG    server server.py Connect ('127.0.0.1', 60094) exit.

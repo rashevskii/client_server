@@ -1,0 +1,1 @@
+2021-12-06 21:59:46,436 INFO     server server.py Server started, port for connections: 8888, address: 127.0.0.1. If no address is specified, connections are accepted from any addresses.

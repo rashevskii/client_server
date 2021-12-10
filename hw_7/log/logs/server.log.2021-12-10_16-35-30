@@ -1,0 +1,7 @@
+2021-12-10 16:35:30,141 INFO     server server.py Connected to PC ('127.0.0.1', 57192)
+2021-12-10 16:35:30,507 INFO     server server.py Connected to PC ('127.0.0.1', 57194)
+2021-12-10 16:35:30,509 DEBUG    server server.py Parsing a message from a client: {'action': 'presence', 'time': 1639139730.1414044, 'user': {'account_name': 'Guest'}}
+2021-12-10 16:35:30,812 INFO     server server.py Connected to PC ('127.0.0.1', 57196)
+2021-12-10 16:35:30,815 DEBUG    server server.py Parsing a message from a client: {'action': 'presence', 'time': 1639139730.5075014, 'user': {'account_name': 'Guest'}}
+2021-12-10 16:35:30,864 INFO     server server.py Connected to PC ('127.0.0.1', 57198)
+2021-12-10 16:35:30,867 DEBUG    server server.py Parsing a message from a client: {'action': 'presence', 'time': 1639139730.8125417, 'user': {'account_name': 'Guest'}}

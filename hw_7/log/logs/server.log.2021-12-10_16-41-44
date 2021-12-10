@@ -1,0 +1,4 @@
+2021-12-10 16:41:44,332 INFO     server server.py Client ('127.0.0.1', 57434) disconnected from the server.
+2021-12-10 16:41:44,346 INFO     server server.py Client ('127.0.0.1', 57436) disconnected from the server.
+2021-12-10 16:41:44,346 INFO     server server.py Client ('127.0.0.1', 57438) disconnected from the server.
+2021-12-10 16:41:44,346 INFO     server server.py Client ('127.0.0.1', 57440) disconnected from the server.

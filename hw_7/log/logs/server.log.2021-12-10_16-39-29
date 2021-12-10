@@ -1,0 +1,5 @@
+2021-12-10 16:39:29,357 INFO     server server.py Connected to PC ('127.0.0.1', 57434)
+2021-12-10 16:39:29,790 INFO     server server.py Connected to PC ('127.0.0.1', 57436)
+2021-12-10 16:39:29,791 DEBUG    decorators decorators.py The get_data function was called with parameters (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57434)>,), {}. Call from module common.utils.Call from function start_server().Call from function start_server
+2021-12-10 16:39:29,791 DEBUG    server server.py Parsing a message from a client: {'action': 'presence', 'time': 1639139969.3580844, 'user': {'account_name': 'Guest'}}
+2021-12-10 16:39:29,792 DEBUG    decorators decorators.py The processing_clients_messages function was called with parameters ({'action': 'presence', 'time': 1639139969.3580844, 'user': {'account_name': 'Guest'}}, [], <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57434)>), {}. Call from module __main__.Call from function start_server().Call from function start_server

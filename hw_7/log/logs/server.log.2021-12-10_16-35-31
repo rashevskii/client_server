@@ -1,0 +1,1 @@
+2021-12-10 16:35:31,372 DEBUG    server server.py Parsing a message from a client: {'action': 'presence', 'time': 1639139730.8646576, 'user': {'account_name': 'Guest'}}

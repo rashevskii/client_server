@@ -1,0 +1,2 @@
+2021-12-10 16:36:02,445 DEBUG    decorators decorators.py The arg_parser function was called with parameters (), {}. Call from module __main__.Call from function start_server().Call from function start_server
+2021-12-10 16:36:02,446 INFO     server server.py Server started, port for connections: 7777, аthe address from which connections are accepted: . If no address is specified, connections are accepted from any addresses.

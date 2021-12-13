@@ -1,0 +1,4 @@
+2021-12-13 23:25:57,439 INFO     server server.py Server started, port for connections: 7777, the address from which connections are accepted: . If no address is specified, connections are accepted from any addresses.
+2021-12-13 23:25:57,799 INFO     server server.py Connected to PC ('127.0.0.1', 34346)
+2021-12-13 23:25:57,894 INFO     server server.py Connected to PC ('127.0.0.1', 34348)
+2021-12-13 23:25:57,895 DEBUG    server server.py Parsing a message from a client: {'action': 'presence', 'time': 1639423557.7990758, 'user': {'account_name': 'test1'}}

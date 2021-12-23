@@ -1,0 +1,1 @@
+2021-12-13 23:27:07,528 DEBUG    server server.py Parsing a message from a client: {'action': 'exit', 'time': 1639423627.3603685, 'account_name': 'test2'}

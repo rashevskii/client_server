@@ -1,0 +1,2 @@
+2021-12-13 23:26:25,443 DEBUG    server server.py Parsing a message from a client: {'action': 'message', 'from': 'test1', 'to': 'test2', 'time': 1639423585.1851616, 'mess_text': 'Hi'}
+2021-12-13 23:26:25,452 INFO     server server.py Message sent to user test2 from user test1.
